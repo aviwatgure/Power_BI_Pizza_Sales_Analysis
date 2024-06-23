@@ -66,9 +66,9 @@ This above steps for overview tab dashboard.
 
 ## CONCLUTION
 
-The detailed analysis of the pizza sales dataset using Power BI has provided significant insights into the busiest times, sales performance, and the best and worst-selling products. Here are the key findings and their implications for the business:
+#### The detailed analysis of the pizza sales dataset using Power BI has provided significant insights into the busiest times, sales performance, and the best and worst-selling products. Here are the key findings and their implications for the business:
 
-### Busiest Day and Time:
+- <u> ### Busiest Day and Time: </u> 
 
 #### Day:
 Orders Are Highest On Weekends, Especially Friday and Saturday Evenings : <br> 
@@ -80,7 +80,7 @@ Maximum Orders Are Placed in July and January : <br>
 These months show a significant spike in orders, possibly due to holidays and seasonal promotions.
 Implication: Seasonal marketing campaigns and promotions can be strategically planned for these months to capitalize on the increased customer demand.
 
-### Sales Performance:
+- <u> ### Sales Performance: </u> 
 
 #### Category:
 Classic Category Contributes To Maximum Sales and Total Orders : <br> 
@@ -92,7 +92,7 @@ Large Size Pizza Contributes To Maximum Sales : <br>
 Large pizzas are the top choice for customers, driving the most significant portion of sales.
 Implication: Promotions that encourage customers to upgrade to large sizes, such as value deals or combo offers, can enhance sales.
 
-### Best Sellers:
+- <u> ### Best Sellers: </u> 
 
 #### Revenue:
 The Thai Chicken Pizza Contributes To Maximum Revenue : <br> 
@@ -103,7 +103,7 @@ Implication: The Thai Chicken Pizza should be prominently featured in marketing 
 The Classic Deluxe Pizza Contributes To Maximum Total Orders and Quantity: This pizza variant is ordered most frequently and in the largest quantities, demonstrating broad customer appeal.
 Implication: Ensuring consistent quality and availability of the Classic Deluxe Pizza is crucial, and it may be beneficial to create promotions that feature this popular item.
 
-### Worst Sellers:
+ - <u> ### Worst Sellers: </u> 
 
 #### Revenue, Total Orders, and Quantity :  <br>
 The Brie Carre Pizza Contributes To Minimum Revenue, Total Orders, and Quantity: This pizza variant performs poorly across all sales metrics.
