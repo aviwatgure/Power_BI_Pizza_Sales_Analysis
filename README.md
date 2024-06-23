@@ -43,6 +43,8 @@ Than we calculat KPIs
 -Total Orders <br>
 -Average Pizzas Per Order <br>
 
+![](KPIs.png)
+
 ### STEP 3
 
 Than we visualiza a data by using different chart and we play around it to get some insight from it.
