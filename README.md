@@ -81,7 +81,7 @@ This above steps for overview tab dashboard.
 #### By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
 
 
-          HOME DASHBOARD                 |             OVERVIEW DASHBOARD               
+|          HOME DASHBOARD                |             OVERVIEW DASHBOARD              |
 :---------------------------------------:|:--------------------------------------------:
  ![](PIZZA_SALES_DASHBOARD_HOME_TAB.png)   ![](PIZZA_SALES_DASHBOARD_OVERVIEW_TAB.png)
 
