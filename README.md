@@ -20,7 +20,7 @@ The Pizza Sales Analysis Project aims to analyze key performance indicators (KPI
 
 ## DATA SOURCE
 This is dami data. <br>
-Format of file is csv file cantain 48,620 rows and 15 colums
+Format of dataset file is csv file cantain 48,620 rows and 15 colums
 
 
 
