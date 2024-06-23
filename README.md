@@ -29,7 +29,7 @@ Format of dataset file is csv file cantain 48,620 rows and 15 colums
 
 ### STEP 1
 
-First we study the data properly by give a sufficient time on dataset.
+First we study the data properly by give a sufficient time on it.
 
 ### STEP 2
 
@@ -85,42 +85,42 @@ This above steps for overview tab dashboard.
 
 #### Day:
 Orders Are Highest On Weekends, Especially Friday and Saturday Evenings : <br> 
-This insight suggests that the business experiences peak order volumes during weekends, particularly in the evenings. This pattern likely reflects customers' dining habits, where they prefer to order pizzas as a treat during the weekend.
-Implication: The business should ensure adequate staffing, inventory, and delivery resources during these peak times to meet the higher demand and maintain service quality.
+This insight suggests that the business experiences peak order volumes during weekends, particularly in the evenings. This pattern likely reflects customers' dining habits, where they prefer to order pizzas as a treat during the weekend. <br>
+Implication : The business should ensure adequate staffing, inventory, and delivery resources during these peak times to meet the higher demand and maintain service quality.
 
 #### Monthly:
 Maximum Orders Are Placed in July and January : <br> 
-These months show a significant spike in orders, possibly due to holidays and seasonal promotions.
-Implication: Seasonal marketing campaigns and promotions can be strategically planned for these months to capitalize on the increased customer demand.
+These months show a significant spike in orders, possibly due to holidays and seasonal promotions. <br>
+Implication : Seasonal marketing campaigns and promotions can be strategically planned for these months to capitalize on the increased customer demand.
 
 ### - <u>  Sales Performance : </u> 
 
 #### Category:
 Classic Category Contributes To Maximum Sales and Total Orders : <br> 
-The Classic pizza category is the most popular among customers, generating the highest sales and order volumes.
-Implication: Focusing on maintaining and expanding the Classic pizza offerings, including introducing new variants or limited-time specials within this category, can further boost sales.
+The Classic pizza category is the most popular among customers, generating the highest sales and order volumes. <br>
+Implication : Focusing on maintaining and expanding the Classic pizza offerings, including introducing new variants or limited-time specials within this category, can further boost sales.
 
 #### Size:
 Large Size Pizza Contributes To Maximum Sales : <br> 
-Large pizzas are the top choice for customers, driving the most significant portion of sales.
-Implication: Promotions that encourage customers to upgrade to large sizes, such as value deals or combo offers, can enhance sales.
+Large pizzas are the top choice for customers, driving the most significant portion of sales. <br>
+Implication : Promotions that encourage customers to upgrade to large sizes, such as value deals or combo offers, can enhance sales.
 
  ### - <u> Best Sellers : </u> 
 
 #### Revenue:
 The Thai Chicken Pizza Contributes To Maximum Revenue : <br> 
-This pizza variant generates the highest revenue, indicating strong customer preference and possibly a higher price point.
-Implication: The Thai Chicken Pizza should be prominently featured in marketing materials, and its success could inspire the development of similar high-revenue items.
+This pizza variant generates the highest revenue, indicating strong customer preference and possibly a higher price point. <br>
+Implication : The Thai Chicken Pizza should be prominently featured in marketing materials, and its success could inspire the development of similar high-revenue items.
 
 #### Total Orders and Quantity : <br>
-The Classic Deluxe Pizza Contributes To Maximum Total Orders and Quantity: This pizza variant is ordered most frequently and in the largest quantities, demonstrating broad customer appeal.
-Implication: Ensuring consistent quality and availability of the Classic Deluxe Pizza is crucial, and it may be beneficial to create promotions that feature this popular item.
+The Classic Deluxe Pizza Contributes To Maximum Total Orders and Quantity: This pizza variant is ordered most frequently and in the largest quantities, demonstrating broad customer appeal. <br>
+Implication :  Ensuring consistent quality and availability of the Classic Deluxe Pizza is crucial, and it may be beneficial to create promotions that feature this popular item.
 
  ###  - <u> Worst Sellers : </u> 
 
 #### Revenue, Total Orders, and Quantity :  <br>
-The Brie Carre Pizza Contributes To Minimum Revenue, Total Orders, and Quantity: This pizza variant performs poorly across all sales metrics.
-Implication: A review of the Brie Carre Pizza is necessary to determine whether it can be improved through recipe adjustments or marketing efforts. If not, it may be more cost-effective to remove it from the menu and replace it with a more popular option.
+The Brie Carre Pizza Contributes To Minimum Revenue, Total Orders, and Quantity: This pizza variant performs poorly across all sales metrics. <br>
+Implication :  A review of the Brie Carre Pizza is necessary to determine whether it can be improved through recipe adjustments or marketing efforts. If not, it may be more cost-effective to remove it from the menu and replace it with a more popular option.
 
 
 
