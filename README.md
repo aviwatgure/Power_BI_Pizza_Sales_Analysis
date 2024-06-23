@@ -9,9 +9,23 @@ This project leverages the powerful capabilities of Microsoft Power BI to provid
 
 ## PROBLEM STATEMENT
 
-The Pizza Sales Analysis Project aims to analyze key performance indicators (KPIs) and visualize critical aspects of pizza sales data to gain comprehensive insights into business performance. By leveraging Power BI, we seek to identify trends, patterns, and areas for improvement across various dimensions of sales data. Specifically, we aim to:
+The Pizza Sales Analysis Project aims to analyze key performance indicators (KPIs) and visualize critical aspects of pizza sales data to gain comprehensive insights into business performance. By leveraging Power BI, we seek to identify trends, patterns, and areas for improvement across various dimensions of sales data.
 
-### Calculate Key Performance Indicators (KPIs):
+## DATA SOURCE
+This is dami data. <br>
+Format of file is csv file cantain 48,620 rows and 15 colums
+
+## VISUALIZATION & ANALYSIS 
+
+### STEP 1
+
+First we study the data properly by give a sufficient time on dataset.
+
+### STEP 2
+
+Than we calculat KPIs 
+
+#### Calculate Key Performance Indicators (KPIs):
 
 -Total Revenue <br>
 -Average Order Value (AOV) <br>
@@ -19,14 +33,17 @@ The Pizza Sales Analysis Project aims to analyze key performance indicators (KPI
 -Total Orders <br>
 -Average Pizzas Per Order <br>
 
-### Visualize Data Through Various Charts:
+### STEP 3
 
--Hourly Trend for Total Pizzas Sold: Stacked bar chart <br>
--Weekly Trend for Total Orders: Line chart <br>
--Percentage of Sales by Pizza Category: Pie chart <br>
--Percentage of Sales by Pizza Size: Pie chart <br>
--Total Pizzas Sold by Pizza Category: Funnel chart <br>
--Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders: Bar chart <br>
--Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders: Bar chart <br>
+#### Visualize Data Through Various Charts:
 
-By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
+- <u> Stacked bar chart </u> = Hourly Trend for Total Pizzas Sold <br>
+- <u> Line chart </u> = Weekly Trend for Total Orders <br>
+- <u> Pie chart </u> = Percentage of Sales by Pizza Category <br>
+- <u> Pie chart </u> = Percentage of Sales by Pizza Size <br>
+- <u> Funnel chart </u> = Total Pizzas Sold by Pizza Category <br>
+- <u> Bar chart </u> = Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
+- <u> Bar chart </u> = Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
+
+#### By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
+
