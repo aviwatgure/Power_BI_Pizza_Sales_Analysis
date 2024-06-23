@@ -59,6 +59,8 @@ Than we visualiza a data by using different chart and we play around it to get s
 - <u> Bar chart </u> = Top 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
 - <u> Bar chart </u> = Bottom 5 Best Sellers by Revenue, Total Quantity, and Total Orders <br>
 
+![](CHARTS_HOME_TAB.png)
+
 This above 2 steps for home tab dashboard & Now we design overview dashboard which is second dashboard.
 
 ### STEP 4
@@ -72,18 +74,24 @@ This above 2 steps for home tab dashboard & Now we design overview dashboard whi
 - <u> Bottom 5 pizza by quntity </u>  <br>
 - <u> Bottom 5 pizza by total order </u>  <br>
 
+![](CHARTS_OVERVIEW_TAB.png)
+
 This above steps for overview tab dashboard.
 
 #### By analyzing these KPIs and visualizations, we aim to provide actionable insights that will help optimize business operations, enhance customer satisfaction, and drive sales growth. The insights gained will support data-driven decision-making and strategic planning for the pizza chain.
 
 
-
+|         HOME_DASHBOARD                 |             OVERVIEW_DASHBOARD            |
+:----------------------------------------|-------------------------------------------|
+ ![](PIZZA_SALES_DASHBOARD_HOME_TAB.png)  ![](PIZZA_SALES_DASHBOARD_OVERVIEW_TAB.png)
 
 ## CONCLUTION
 
 #### The detailed analysis of the pizza sales dataset using Power BI has provided significant insights into the busiest times, sales performance, and the best and worst-selling products. Here are the key findings and their implications for the business:
 
  ###  - <u> Busiest Day and Time : </u> 
+ 
+![](DAY_TIME.png)
 
 #### Day:
 Orders Are Highest On Weekends, Especially Friday and Saturday Evenings : <br> 
@@ -97,6 +105,8 @@ Implication : Seasonal marketing campaigns and promotions can be strategically p
 
 ### - <u>  Sales Performance : </u> 
 
+![](SALES_PERFORMANCE.png)
+
 #### Category:
 Classic Category Contributes To Maximum Sales and Total Orders : <br> 
 The Classic pizza category is the most popular among customers, generating the highest sales and order volumes. <br>
@@ -109,6 +119,8 @@ Implication : Promotions that encourage customers to upgrade to large sizes, suc
 
  ### - <u> Best Sellers : </u> 
 
+![](BEST_SELLER.png)
+
 #### Revenue:
 The Thai Chicken Pizza Contributes To Maximum Revenue : <br> 
 This pizza variant generates the highest revenue, indicating strong customer preference and possibly a higher price point. <br>
@@ -119,6 +131,8 @@ The Classic Deluxe Pizza Contributes To Maximum Total Orders and Quantity: This 
 Implication :  Ensuring consistent quality and availability of the Classic Deluxe Pizza is crucial, and it may be beneficial to create promotions that feature this popular item.
 
  ###  - <u> Worst Sellers : </u> 
+
+![](WORST_SELLER.png)
 
 #### Revenue, Total Orders, and Quantity :  <br>
 The Brie Carre Pizza Contributes To Minimum Revenue, Total Orders, and Quantity: This pizza variant performs poorly across all sales metrics. <br>
