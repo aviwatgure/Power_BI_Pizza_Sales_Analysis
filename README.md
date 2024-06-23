@@ -14,7 +14,7 @@ This project leverages the powerful capabilities of Microsoft Power BI to provid
 
 The Pizza Sales Analysis Project aims to analyze key performance indicators (KPIs) and visualize critical aspects of pizza sales data to gain comprehensive insights into business performance. By leveraging Power BI, we seek to identify trends, patterns, and areas for improvement across various dimensions of sales data.
 
-
+![](pexels-wdnet-106344.jpg)
 
 
 
