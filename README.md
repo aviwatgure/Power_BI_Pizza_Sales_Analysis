@@ -103,22 +103,20 @@ Implication: A review of the Brie Carre Pizza is necessary to determine whether 
 
 ## Recommendations:
 
-Resource Allocation:
+- <u> Resource Allocation </u> :  <br>
 Increase staff and inventory levels during weekends and the peak months of July and January to meet higher demand and maintain service quality.
 
-Marketing Strategies:
-Promote the Thai Chicken Pizza and other high-revenue items prominently.
-Leverage the popularity of the Classic Deluxe Pizza in promotions and special offers.
+- <u> Marketing Strategies </u> :  <br>
+Promote the Thai Chicken Pizza and other high-revenue items prominently. <br>
+Leverage the popularity of the Classic Deluxe Pizza in promotions and special offers.  <br>
 
-Menu Optimization:
-Focus on enhancing and expanding the Classic pizza category and large pizza offerings.
-Consider removing or revamping underperforming items like the Brie Carre Pizza.
+- <u> Menu Optimization </u> : <br>
+Focus on enhancing and expanding the Classic pizza category and large pizza offerings.  <br>
+Consider removing or revamping underperforming items like the Brie Carre Pizza.  <br>
 
-Customer Engagement:
-Develop targeted marketing campaigns and promotions around the identified peak times and popular products to boost customer engagement and sales.
+- <u> Customer Engagement </u> :
+Develop targeted marketing campaigns and promotions around the identified peak times and popular products to boost customer engagement and sales.  <br>
 By implementing these recommendations, the pizza chain can optimize operations, improve customer satisfaction, and drive revenue growth, leveraging the valuable insights gained from the Power BI analysis.
-
-
 
 
 
