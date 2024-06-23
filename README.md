@@ -37,11 +37,11 @@ Than we calculat KPIs
 
 #### Calculate Key Performance Indicators (KPIs):
 
--Total Revenue <br>
--Average Order Value (AOV) <br>
--Total Pizzas Sold <br>
--Total Orders <br>
--Average Pizzas Per Order <br>
+- <u> Total Revenue </u> <br>
+- <u> Average Order Value (AOV)  </u> <br>
+- <u> Total Pizzas Sold  </u> <br>
+- <u> Total Orders  </u> <br>
+- <u> Average Pizzas Per Order  </u> <br>
 
 ![](KPIs.png)
 
